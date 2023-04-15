@@ -61,6 +61,6 @@ void CubeInterpolate(MKL_INT nx, MKL_INT ny, double* x, double* y,
 	}
 	catch (...)
 	{
-		ret = 7;
+		ret = 42;
 	}
 }
