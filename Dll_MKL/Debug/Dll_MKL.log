@@ -1,0 +1,9 @@
+﻿  Source_MKL.cpp
+     Создается библиотека C:\Users\user\source\repos\SplineWPFLab\Debug\Dll_MKL.lib и объект C:\Users\user\source\repos\SplineWPFLab\Debug\Dll_MKL.exp
+Source_MKL.obj : error LNK2019: ссылка на неразрешенный внешний символ _dfdNewTask1D в функции _CubeInterpolate.
+Source_MKL.obj : error LNK2019: ссылка на неразрешенный внешний символ _dfdEditPPSpline1D в функции _CubeInterpolate.
+Source_MKL.obj : error LNK2019: ссылка на неразрешенный внешний символ _dfdConstruct1D в функции _CubeInterpolate.
+Source_MKL.obj : error LNK2019: ссылка на неразрешенный внешний символ _dfdInterpolate1D в функции _CubeInterpolate.
+Source_MKL.obj : error LNK2019: ссылка на неразрешенный внешний символ _dfdIntegrate1D в функции _CubeInterpolate.
+Source_MKL.obj : error LNK2019: ссылка на неразрешенный внешний символ _dfDeleteTask в функции _CubeInterpolate.
+C:\Users\user\source\repos\SplineWPFLab\Debug\Dll_MKL.dll : fatal error LNK1120: неразрешенных внешних элементов: 6

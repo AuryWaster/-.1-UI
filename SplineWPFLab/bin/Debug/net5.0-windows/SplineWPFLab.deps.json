@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SplineWPFLab/1.0.0": {
+        "dependencies": {
+          "ClassLibSpline": "1.0.0"
+        },
+        "runtime": {
+          "SplineWPFLab.dll": {}
+        }
+      },
+      "ClassLibSpline/1.0.0": {
+        "runtime": {
+          "ClassLibSpline.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SplineWPFLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibSpline/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

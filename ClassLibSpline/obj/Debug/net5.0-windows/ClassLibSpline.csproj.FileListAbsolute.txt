@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\SplineWPFLab\ClassLibSpline\bin\Debug\net5.0-windows\ClassLibSpline.deps.json
+C:\Users\user\source\repos\SplineWPFLab\ClassLibSpline\bin\Debug\net5.0-windows\ClassLibSpline.dll
+C:\Users\user\source\repos\SplineWPFLab\ClassLibSpline\bin\Debug\net5.0-windows\ref\ClassLibSpline.dll
+C:\Users\user\source\repos\SplineWPFLab\ClassLibSpline\bin\Debug\net5.0-windows\ClassLibSpline.pdb
+C:\Users\user\source\repos\SplineWPFLab\ClassLibSpline\obj\Debug\net5.0-windows\ClassLibSpline.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SplineWPFLab\ClassLibSpline\obj\Debug\net5.0-windows\ClassLibSpline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SplineWPFLab\ClassLibSpline\obj\Debug\net5.0-windows\ClassLibSpline.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SplineWPFLab\ClassLibSpline\obj\Debug\net5.0-windows\ClassLibSpline.AssemblyInfo.cs
+C:\Users\user\source\repos\SplineWPFLab\ClassLibSpline\obj\Debug\net5.0-windows\ClassLibSpline.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SplineWPFLab\ClassLibSpline\obj\Debug\net5.0-windows\ClassLibSpline.dll
+C:\Users\user\source\repos\SplineWPFLab\ClassLibSpline\obj\Debug\net5.0-windows\ref\ClassLibSpline.dll
+C:\Users\user\source\repos\SplineWPFLab\ClassLibSpline\obj\Debug\net5.0-windows\ClassLibSpline.pdb
