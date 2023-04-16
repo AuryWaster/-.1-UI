@@ -99,7 +99,7 @@ namespace ClassLibSpline
             }
         }
 
-        //[DllImport("..\\..\\..\\debug\\", CallingConvention = CallingConvention.Cdecl)]
+        //[DllImport("..\\..\\..\\..\\x64\\Debug\\DLL.MKL.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern void CubeInterpolate(int nx, double[] x, int ny, double[] y, double[] ders, double[] scoeff, int nsite,
             double[] site, int ndorder, int[] dorder, double[] results, int nlim, 
             double[] l_lims, double[] r_lims, double[] int_results, ref int ret, bool isUniform);
